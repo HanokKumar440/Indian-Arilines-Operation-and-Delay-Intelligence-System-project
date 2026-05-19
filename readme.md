@@ -152,3 +152,24 @@ images/
 - Advanced ensemble machine learning models
 - Predictive disruption forecasting
 - Route optimization analytics
+
+
+---
+
+## Dashboard Preview
+
+### Executive Overview
+
+<img src="images/executive_overview.png" width="900">
+
+---
+
+### Airline & Airport Performance
+
+<img src="images/airline_airport_performance.png" width="900">
+
+---
+
+### ML Model Insights
+
+<img src="images/ml_model_insights.png" width="900">
