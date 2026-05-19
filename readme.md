@@ -166,7 +166,7 @@ images/
 
 ### Airline & Airport Performance
 
-<img src="images/airline_airport_performance.png" width="900">
+<img src="images/Airline_Airport_Performance.png" width="900">
 
 ---
 
