@@ -1,0 +1,7 @@
+Pandas
+Numpy
+Matplotlib
+Seaborn
+Scikit-learn
+Visual Studio Code
+Power Bi
